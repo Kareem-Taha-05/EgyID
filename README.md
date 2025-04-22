@@ -61,10 +61,11 @@ For a demonstration of how the application works, check out this video:
 
 We'd like to thank the following contributors for their valuable input and collaboration:
 
-- **Kareem Taha**
-- **Karim Hassan**
-- **Omar Gamal**
-- **Omar Amein**
+# Contributors
+1. [Kareem Taha](https://github.com/Kareem-Taha-05)
+2. [Omar Gamal](https://github.com/OmarGamalH)
+3. [Karim Hassan](https://github.com/karimhassan-808)
+4. [Omar Amein](https://github.com/OmarAmein)
 If you'd like to contribute, feel free to fork the repository and submit a pull request!
 
 ## Contribution 🤝
