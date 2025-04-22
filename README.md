@@ -66,7 +66,6 @@ We'd like to thank the following contributors for their valuable input and colla
 2. [Omar Gamal](https://github.com/OmarGamalH)
 3. [Karim Hassan](https://github.com/karimhassan-808)
 4. [Omar Amein](https://github.com/OmarAmein)
-If you'd like to contribute, feel free to fork the repository and submit a pull request!
 
 ## Contribution 🤝
 
