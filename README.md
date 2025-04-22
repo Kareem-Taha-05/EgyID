@@ -42,7 +42,7 @@ Before running the application, make sure you have:
 
 ## File Structure 📂
 ```
-├── Team2.java # Main application with GUI functionality 
+├── runner.java # Main application with GUI functionality 
 ├── IDs_File.java # Handles CSV file operations 
 └── ID_generator.java # Class that generates unique IDs
 ```
@@ -61,10 +61,10 @@ For a demonstration of how the application works, check out this video:
 
 We'd like to thank the following contributors for their valuable input and collaboration:
 
-- **Kareem Taha** - Creator & Developer
-- **Contributor Name** - Role or Contribution
-- **Contributor Name** - Role or Contribution
-
+- **Kareem Taha**
+- **Karim Hassan**
+- **Omar Gamal**
+- **Omar Amein**
 If you'd like to contribute, feel free to fork the repository and submit a pull request!
 
 ## Contribution 🤝
